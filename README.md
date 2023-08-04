@@ -1,4 +1,4 @@
-This repo consists of an overview of my thesis work for master's degree.
+This repo consists of an overview of my thesis work for my Master's degree.
 
 Title - MACHINE LEARNING APPROACHES FOR THE ESTIMATION OF MGMT GENOTYPE AND OVERALL SURVIVAL
 
